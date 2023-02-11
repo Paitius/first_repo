@@ -1,9 +1,9 @@
-# def multiply(x,y):
-#     return round(x*y,5)
+def multiply(x, y):
+    return round(x*y, 5)
 
 
-# def no_of_letter(text):
-#     return len(text)
+def no_of_letter(text):
+    return len(text)
 
 
 def fizz_buzz(i):
