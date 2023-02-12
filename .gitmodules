@@ -1,0 +1,3 @@
+[submodule "selenium/selenium/first_repo"]
+	path = selenium/selenium/first_repo
+	url = https://github.com/Paitius/first_repo
